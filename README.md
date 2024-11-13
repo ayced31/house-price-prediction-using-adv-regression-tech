@@ -64,17 +64,6 @@ To get started with this project, you’ll need to clone this repository and ins
    python evaluate_model.py
    ```
 
-## Project Structure
-
-- **data/**: Contains the raw data and preprocessed data files.
-- **src/**: Holds the main scripts:
-  - `preprocess_data.py`: Data cleaning and preprocessing.
-  - `train_model.py`: Model training.
-  - `evaluate_model.py`: Model evaluation.
-- **notebooks/**: Jupyter notebooks for exploratory data analysis (EDA) and model experimentation.
-- **results/**: Stores model outputs, evaluation metrics, and visualization results.
-- **requirements.txt**: Lists all dependencies.
-
 ## Results
 
 The project achieves an R-squared value of X.XX and a Mean Absolute Error (MAE) of X.XX, showing promising predictive performance for estimating house prices. See the `results/` directory for detailed evaluation metrics, comparisons across models, and plots.
